@@ -14,11 +14,8 @@
     font-weight: bold;
     color: #385C86;
     text-decoration: none; }
-    .funnel h1 img {
-      padding: 0 1px;
-      vertical-align: -2px; }
   .funnel .funnel_steps {
-    font-size: 10px;
+    font-size: 11px;
     margin-top: 10px; }
   .funnel .divider {
     float: left;
@@ -43,6 +40,13 @@
     background: url(http://www.mixpanel.com/site_media/images/redesign/down_arrow_light.png) no-repeat right center !important; }
   .funnel li {
     margin-bottom: 2px !important; }
+  .funnel img.arrow {
+    padding: 0 1px;
+    vertical-align: -2px; }
+  .funnel .options {
+    position: relative;
+    top: 1px;
+    left: 22px; }
 
 .left {
-  margin-right: 19px; }
+  margin-right: 19px !important; }
