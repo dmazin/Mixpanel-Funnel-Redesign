@@ -1,0 +1,48 @@
+.funnel {
+  width: 438px !important;
+  float: left;
+  padding: 10px;
+  display: block;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px; }
+  .funnel h1 {
+    float: left;
+    display: inline;
+    padding-bottom: 3px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #385C86;
+    text-decoration: none; }
+    .funnel h1 img {
+      padding: 0 1px;
+      vertical-align: -2px; }
+  .funnel .funnel_steps {
+    font-size: 10px;
+    margin-top: 10px; }
+  .funnel .divider {
+    float: left;
+    width: 1px;
+    height: 19px;
+    background-color: #CECECE;
+    line-height: 46px;
+    display: inline-block;
+    margin-bottom: -6px;
+    margin-left: 10px; }
+  .funnel .conversion {
+    float: left;
+    font-size: 14px;
+    font-weight: bold;
+    margin: 0px 5px 0px 10px;
+    width: 44px;
+    text-align: left; }
+  .funnel .funnel_header {
+    border-bottom: 1px solid #CECECE;
+    padding-bottom: 6px; }
+  .funnel .label {
+    background: url(http://www.mixpanel.com/site_media/images/redesign/down_arrow_light.png) no-repeat right center !important; }
+  .funnel li {
+    margin-bottom: 2px !important; }
+
+.left {
+  margin-right: 19px; }
